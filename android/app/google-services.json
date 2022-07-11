@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "108236549198",
+    "project_id": "algo-f34c5",
+    "storage_bucket": "algo-f34c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108236549198:android:bb0f281f4c50ef17e6671f",
+        "android_client_info": {
+          "package_name": "com.example.learnearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108236549198-jkllh9o6f3ar45tlvbfg0nsmh9m68kjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfSjHGaFo-Y05BZLcOOdWu3qYQuR4hys8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108236549198-jkllh9o6f3ar45tlvbfg0nsmh9m68kjv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108236549198-t6ose155t8q5odscf7r7sdjh4o3kmlns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.letsfly"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108236549198:android:6e245a8c84303a3ae6671f",
+        "android_client_info": {
+          "package_name": "com.example.letsfly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108236549198-jkllh9o6f3ar45tlvbfg0nsmh9m68kjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfSjHGaFo-Y05BZLcOOdWu3qYQuR4hys8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108236549198-jkllh9o6f3ar45tlvbfg0nsmh9m68kjv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108236549198-t6ose155t8q5odscf7r7sdjh4o3kmlns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.letsfly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
